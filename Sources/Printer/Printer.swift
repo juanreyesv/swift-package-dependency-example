@@ -1,9 +1,11 @@
 import Documents
 
-struct Printer {
+public struct Printer {
     var text = "Hello, World!"
     
-    func printDocuments(documents: Documents) {
+    public init() {}
+    
+    public func printDocuments(documents: Documents) {
       Documents.list.forEach { document in
         print(document)
       }
