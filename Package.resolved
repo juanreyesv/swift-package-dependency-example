@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Documents",
+        "repositoryURL": "git@github.com:juanreyesv/swift-package-dependency-1.git",
+        "state": {
+          "branch": null,
+          "revision": "d20b612ef27e81e87bdcc6447ebd60938d8f52c9",
+          "version": "0.1.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
